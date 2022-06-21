@@ -1,0 +1,420 @@
+{
+  "data": {
+    "trendingCollections": {
+      "edges": [
+        {
+          "node": {
+            "slug": "connect-with-roberto-carlos",
+            "logo": "https://lh3.googleusercontent.com/TszSAq-XD6gV2dUDuK_2SlKgIIEamTjLpEfJG48iiSZRncMpgp3TsSpLPhnybRuj_EeEjluZHFeCptLprGTovGYz3TlJafFSMcToKFA=s120",
+            "banner": "https://lh3.googleusercontent.com/XmrS1NWgwbQJnFnQ6fDG1c7K1j4w9Jfw6KJ1QKQ8SN9DpGbhlt_9vElr_iQ6YicvX1YykAIuDlPCdH-R_kpD8IA7pWdtiC8CZK5zZg=s300",
+            "description": "The most attacking left-back in the history of soccer comes to SportsIcon. Just under 1000 professional club games spanning 3 continents, including 125 international games for Brazil and free kick speeds of over 105mph, Roberto is undoubtedly the best left back the game has ever seen.\"",
+            "name": "Roberto Carlos x SportsIcon",
+            "shortDescription": null,
+            "isVerified": true,
+            "owner": {
+              "address": "0xb89140a8d53b3da77f784a6eab2ece5721f8fefc",
+              "config": null,
+              "isCompromised": false,
+              "user": {
+                "publicUsername": "sportsicon",
+                "id": "VXNlclR5cGU6MjE3Nzk1"
+              },
+              "displayName": "sportsicon",
+              "imageUrl": "https://lh3.googleusercontent.com/gq41-Zxiumvajnser4OTkFWth-FWGMCu8COLycq7tWEHtfjb3PuQs20zFNnsy6cc_EnX5NDCveIQ4mfqwVOoH2ULPGycH2VLHBzGKw=s100",
+              "id": "QWNjb3VudFR5cGU6MjI1OTEzNzU="
+            },
+            "stats": {
+              "totalSupply": 9.0,
+              "id": "Q29sbGVjdGlvblN0YXRzVHlwZTo2ODA3NjQ="
+            },
+            "defaultChain": {
+              "identifier": "ETHEREUM"
+            },
+            "relayId": "Q29sbGVjdGlvblR5cGU6NjgwNzY0",
+            "id": "Q29sbGVjdGlvblR5cGU6NjgwNzY0",
+            "__typename": "CollectionType"
+          },
+          "cursor": "YXJyYXljb25uZWN0aW9uOjA="
+        },
+        {
+          "node": {
+            "slug": "presalefw",
+            "logo": "https://lh3.googleusercontent.com/adDYQALVy5wJ4f3V1d_c9I0ZnzXARI-oI36jOUk7ancW03UU3Iv9Wk5HklsfKqNY-dt9C-KN1L104uPz8RPhUcQ7cWJmoVIWTzWGkw=s120",
+            "banner": "https://lh3.googleusercontent.com/yI1iPkgrGHS2bZrPNWtxzWMpX3hNp61yrDd0joBPQ_B_vkWip9Hx8SqbI222ML52F4c4KmbkwAc-69zYQ_IYzvOZrJWihtf4SBvpHQ=s300",
+            "description": "THIS IS THE PRESALE LINK OF THE COLLECTION - FOR THE FINAL LINK OF THE COLLECTION GO TO:\n\nhttps://opensea.io/collection/floyds-world\n\nThe Floyd Mayweather World is a collection of 11,111 Floyd\u2019s NFTs to celebrate the number One, undisputed champion - the one and only Floyd Mayweather. But this is more than just a token, it is the entrance to Floyd's World, the most comprehensive NFT community program ever built. Grants access to a wide range of benefits related to the career of the best boxer in history, a new paradigm to what we call NFT utility.",
+            "name": "Presale - FW",
+            "shortDescription": null,
+            "isVerified": true,
+            "owner": {
+              "address": "0x04231ce30049ab88a795c3dd10a15116e83811b7",
+              "config": null,
+              "isCompromised": false,
+              "user": {
+                "publicUsername": "FloydsWorld",
+                "id": "VXNlclR5cGU6MTE1NDg2Ng=="
+              },
+              "displayName": "FloydsWorld",
+              "imageUrl": "https://lh3.googleusercontent.com/LqoeMQj29oX8TVB7HfFl1i49uWYj6IJ3kRpkYXubqBVryj_L0EMiDLk6ZzDyXIUWqRsyrioRf2B_srvjH5_TE8tafAo_R9cYo0AH-g=s100",
+              "id": "QWNjb3VudFR5cGU6NTY3NDIwNTE="
+            },
+            "stats": {
+              "totalSupply": 4243.0,
+              "id": "Q29sbGVjdGlvblN0YXRzVHlwZTo4NzQxMDQ="
+            },
+            "defaultChain": {
+              "identifier": "ETHEREUM"
+            },
+            "relayId": "Q29sbGVjdGlvblR5cGU6ODc0MTA0",
+            "id": "Q29sbGVjdGlvblR5cGU6ODc0MTA0",
+            "__typename": "CollectionType"
+          },
+          "cursor": "YXJyYXljb25uZWN0aW9uOjE="
+        },
+        {
+          "node": {
+            "slug": "mlb-champions",
+            "logo": "https://lh3.googleusercontent.com/AAH1qVmZK2RQI5n2AJkQeA_tCb7659MXJKBjSWnYIDCt0q-fJuBh22dVWIeX-Zv9g9XU1v3Y7chCitsQCwIs6C659g=s60",
+            "banner": "https://storage.opensea.io/0x8c9b261faef3b3c2e64ab5e58e04615f8c788099-featured-1556589443.png",
+            "description": "MLB Champions is a blockchain-based sports game that anyone can play using their very own crypto figures! Every game of MLB Champions is tied to a live MLB game in real time. Your figures will earn stats based on how well they perform in each MLB game. The better your teams and players perform in a live MLB game, the more your figures will improve.",
+            "name": "MLB Champions",
+            "shortDescription": null,
+            "isVerified": true,
+            "owner": {
+              "address": "0x7b45f44a4c1f22ebd5c2e4a59489e6693237f04c",
+              "config": null,
+              "isCompromised": false,
+              "user": {
+                "publicUsername": null,
+                "id": "VXNlclR5cGU6MTI0OTA3MA=="
+              },
+              "displayName": null,
+              "imageUrl": "https://storage.googleapis.com/opensea-static/opensea-profile/13.png",
+              "id": "QWNjb3VudFR5cGU6NjEyNDE3ODk="
+            },
+            "stats": {
+              "totalSupply": 249111.0,
+              "id": "Q29sbGVjdGlvblN0YXRzVHlwZToyOTIy"
+            },
+            "defaultChain": {
+              "identifier": "ETHEREUM"
+            },
+            "relayId": "Q29sbGVjdGlvblR5cGU6MjkyMg==",
+            "id": "Q29sbGVjdGlvblR5cGU6MjkyMg==",
+            "__typename": "CollectionType"
+          },
+          "cursor": "YXJyYXljb25uZWN0aW9uOjI="
+        },
+        {
+          "node": {
+            "slug": "flying-formations",
+            "logo": "https://lh3.googleusercontent.com/6BEkDbDMh8LQ3h4pRhTb219gmjjPdSUYts5J6VyeaAa2I3bSj_J2EJpfBQc7_OvWrpkfmiSPkrD711_FKe8ZcyPvtTQKD8PC7mBatA=s120",
+            "banner": "https://lh3.googleusercontent.com/6ack3RXYrB50N-uZlkrr8qzt0il_njtC6FiJVGQaG4ouS_2ycfxeDcLQMevT_l7A6AqOU_ox2EGhkgh8uBELV5-LX5BkjCXRMrAS22w=s300",
+            "description": "Flying Formations is the first series in the  Ducks of a Feather project. It is a limited-edition series of 120 one-of-a-kind NFTs created by Tinker Hatfield to benefit University of Oregon Duck Athletes. It represents the initial offering from \u201cDucks of A Feather\u201d by Division Street, an ongoing marketing initiative featuring University of Oregon athletes. Featuring a complementary pair of Air Max 1 UO Edition sneakers designed by Tinker. ",
+            "name": "Flying Formations",
+            "shortDescription": null,
+            "isVerified": false,
+            "owner": {
+              "address": "0x6e994d5c49c3d31cc61ed13117a84f677411bafe",
+              "config": null,
+              "isCompromised": false,
+              "user": {
+                "publicUsername": null,
+                "id": "VXNlclR5cGU6MjU1OTE2NDQ="
+              },
+              "displayName": null,
+              "imageUrl": "https://storage.googleapis.com/opensea-static/opensea-profile/20.png",
+              "id": "QWNjb3VudFR5cGU6MjU4NjQwNjA5"
+            },
+            "stats": {
+              "totalSupply": 120.0,
+              "id": "Q29sbGVjdGlvblN0YXRzVHlwZTo3Njg0OTI3"
+            },
+            "defaultChain": {
+              "identifier": "ETHEREUM"
+            },
+            "relayId": "Q29sbGVjdGlvblR5cGU6NzY4NDkyNw==",
+            "id": "Q29sbGVjdGlvblR5cGU6NzY4NDkyNw==",
+            "__typename": "CollectionType"
+          },
+          "cursor": "YXJyYXljb25uZWN0aW9uOjM="
+        },
+        {
+          "node": {
+            "slug": "diamond-dawgs",
+            "logo": "https://lh3.googleusercontent.com/V-pRzvDktq433saP8DTHE2jN57FSddO5_VNaYgrV6IL4upq4REQAx80hIIkdGLWkZewasR2W9zVOpHt1oC3JWdHmkHngcuOOZ6CZHQY=s120",
+            "banner": "https://lh3.googleusercontent.com/k2h0D4mT9k_l9_j1Vn4o10SxRcJX2lgPTmj4eF2LHNYwwowOFKUHTI2zZ0Un4XQNd-m6KKaO_ptEAiOs5ZNojn9ydmzrBhx4nXbDcG4=s300",
+            "description": "[~ Minting is LIVE! Mint HERE for 0.03 ETH! ~](https://www.diamonddawgsnft.com)\n\nThe DiamondDawgs are the 1st PFP collection created by a pro athlete!\n\nThe Dawgs collection of 7,000 on-chain generative baseball characters, hand-drawn by pro athlete and artist Evan Mendoza of the St. Louis Cardinals. \n\nWe are bringing together baseball fans and NFT collectors through the art of an actual player. This is your opportunity to get involved in this one-of-a-kind project and community!",
+            "name": "Diamond Dawgs",
+            "shortDescription": null,
+            "isVerified": false,
+            "owner": {
+              "address": "0x12a49c53dee28e10c392e57394fcacec4e3a3816",
+              "config": null,
+              "isCompromised": false,
+              "user": {
+                "publicUsername": "Diamond-Dawgs",
+                "id": "VXNlclR5cGU6NTA1ODAzOQ=="
+              },
+              "displayName": "Diamond-Dawgs",
+              "imageUrl": "https://storage.googleapis.com/opensea-static/opensea-profile/32.png",
+              "id": "QWNjb3VudFR5cGU6MTAyMzM0NDUx"
+            },
+            "stats": {
+              "totalSupply": 2036.0,
+              "id": "Q29sbGVjdGlvblN0YXRzVHlwZToyMzYyNTAy"
+            },
+            "defaultChain": {
+              "identifier": "ETHEREUM"
+            },
+            "relayId": "Q29sbGVjdGlvblR5cGU6MjM2MjUwMg==",
+            "id": "Q29sbGVjdGlvblR5cGU6MjM2MjUwMg==",
+            "__typename": "CollectionType"
+          },
+          "cursor": "YXJyYXljb25uZWN0aW9uOjQ="
+        },
+        {
+          "node": {
+            "slug": "8-bit-sport-football",
+            "logo": "https://lh3.googleusercontent.com/CqYv8EzDRmtj_G68DDExu-rTzQ5eifDfozEsYZHBL43_qfD5hEoL0P8eWQagvMfnPC-RdNZx3VAnfJM3YnA9TL9xavh2YLsY6MgO=s120",
+            "banner": "https://lh3.googleusercontent.com/HnXmu6TKdnAej5kCR_B5rgYtQ-6zPLlRKiSIBA_ByKEeq9pqttn-Jffbn83WHgZQI6fRoZ-7naAyFMXtmDnOSrNOJzRmSof08Ks1Bw=s300",
+            "description": "I'm a pixel artist drawing a collection of football players from around the world. \n\nOne of a kind art from the world of Football / Soccer.\n \n8-Bit Sport collectible NFTs - @8bitsport",
+            "name": "8-Bit Sport - Football",
+            "shortDescription": null,
+            "isVerified": false,
+            "owner": {
+              "address": "0xcefbdcfb977b1f40f0ce434831705705a072e69a",
+              "config": null,
+              "isCompromised": false,
+              "user": {
+                "publicUsername": "8-Bit",
+                "id": "VXNlclR5cGU6MjEwOTky"
+              },
+              "displayName": "8-Bit",
+              "imageUrl": "https://lh3.googleusercontent.com/IFL1cxemTT8UcQc1rmXAAfD4RpYVrRRx61IAIhApMmUFEwKegaZ7OKp-bgB2NpY7q9pkePtnp5t78Vw0AdYMyjTNLxHK-YpJCfMz=s100",
+              "id": "QWNjb3VudFR5cGU6MjE1ODc5MDE="
+            },
+            "stats": {
+              "totalSupply": 282.0,
+              "id": "Q29sbGVjdGlvblN0YXRzVHlwZTo2NDMyNQ=="
+            },
+            "defaultChain": {
+              "identifier": "ETHEREUM"
+            },
+            "relayId": "Q29sbGVjdGlvblR5cGU6NjQzMjU=",
+            "id": "Q29sbGVjdGlvblR5cGU6NjQzMjU=",
+            "__typename": "CollectionType"
+          },
+          "cursor": "YXJyYXljb25uZWN0aW9uOjU="
+        },
+        {
+          "node": {
+            "slug": "gridirongoofs",
+            "logo": "https://lh3.googleusercontent.com/ZlQpaS-6ommCqXqgW339A-kuaXCRyfXv6i4lB9LkPUrlllDKCMD8J2nUFL9WkC4zl90I0o0ETUpVXK3f8kAUQc75J13zlJ_mKls9x8o=s120",
+            "banner": "https://lh3.googleusercontent.com/AtIJhK3EEDr4zXZ424dyRWMRE3a-Tcz4A1isB3DsfnBU9shE8MleOnRuyTzR1ZI5FRYER_rL-IRDUna9l0sP19XCgOR4ryQ0x8uJJg=s300",
+            "description": "NOT affiliated with the NFL, the NFLPA, Topps, Fleer, Donruss, Panini, Panera Bread, Pizookies, Prince William\n\n(Obviously parody.)\n\nFootball is back!\n\nCollectible digital cards featuring your favorite goofballs of the Gridiron! \n\nFour tiers of rarity, each with its own custom Aura!\n- Rare (Disco Gold)\n- Platinum (Ice Blue)\n- Iconic (Blaze Red)\n- Mythic (Galaxy Purple)\n\nSeason One, Episode One (\"**OG**\") is now COMPLETE!  Enjoy the first 10 Goofs!  \n\nSeason One, Episode Two (\"**Youngbloods**\") had its first drop on April 16, 2021!  These are the hottest young rookies of the year, and also **Tawm Terrific**, who is definitely in his forties.\n\nSeason Two, Episode One (\"**Beefy Boyz**\") are dropping **NOW**!  These guys are thick.  Real beefers.  Buy with confidence.\n\nSeason Two, Episode Two is complete!  It consists of **Mr. Big Chest.**  That's the whole set.  Buy him and you've got 'em all.",
+            "name": "Gridiron Goofs",
+            "shortDescription": null,
+            "isVerified": false,
+            "owner": {
+              "address": "0xffbb2e1922d3ead0e701714a4c11d4ecbe323600",
+              "config": null,
+              "isCompromised": false,
+              "user": {
+                "publicUsername": "Goof_Boss",
+                "id": "VXNlclR5cGU6MTYzNTg0"
+              },
+              "displayName": "Goof_Boss",
+              "imageUrl": "https://lh3.googleusercontent.com/kyei7mK61pgA3KGdQq_YsQYFPjnURyjwPlKjWKqedQKz_xSYeYhhdvhxFwel4CiC9d2SGvpPQB5qQd966lwMH0Cfk0bnq0jPV34xLA=s100",
+              "id": "QWNjb3VudFR5cGU6MjA5OTAwMjA="
+            },
+            "stats": {
+              "totalSupply": 67.0,
+              "id": "Q29sbGVjdGlvblN0YXRzVHlwZTo0OTE3OA=="
+            },
+            "defaultChain": {
+              "identifier": "ETHEREUM"
+            },
+            "relayId": "Q29sbGVjdGlvblR5cGU6NDkxNzg=",
+            "id": "Q29sbGVjdGlvblR5cGU6NDkxNzg=",
+            "__typename": "CollectionType"
+          },
+          "cursor": "YXJyYXljb25uZWN0aW9uOjY="
+        },
+        {
+          "node": {
+            "slug": "allstarfreaks",
+            "logo": "https://lh3.googleusercontent.com/APMc64S1XmQu__MBoy5QCj6b5A2QtHQ2UlMD0qLF6Nr1OQmxouaxxlfuG4XcVFoQpYVcm9oAsPYq9LDzsNUiuhDniOZNm8qoXTQ2VDE=s120",
+            "banner": "https://lh3.googleusercontent.com/2TkhZEP9pVjjRB2lUgeIZIyVO8wVTC9dU_awZ25F_9iJU740Mt6wA-pP-BBDud6jA9A8-XEFN1a98h6UYld7Fn5bXn-s0Re2cKluGA=s300",
+            "description": "**All Star Freaks is a digital collectible card series of Freak All Star athletes and personalities.  Working with athletes to deliver NFT-led experiences for charity. All 1/1's.**  \n\nDominique Wilkins x All Star Freaks NFT Charity Auction:\nhttps://medium.com/@AllStarFreaks/dominique-wilkins-x-all-star-freaks-nft-charity-auction-d97efca41ace\n\nRicky Williams x All Star Freaks Card:\nhttps://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/81678603736433480\n\n500 numbered base cards + special insert cards.\n\n- Series 1 (Base cards #1-100) + Inserts\n- Series 2 (Base cards #100-200) + Inserts\n- Series 3 (Base cards #200-300) + Inserts\n- Series 4 (Base cards #300-400) + Inserts\n- Series 5 (Base cards #400-500) + Inserts\n\n[Linktree](https://linktr.ee/AllStarFreaks)\nJoin the official Freaks [Discord](https://discord.gg/g5fWbJGPaK)\n\nAllStarFreaks are 100% parody fan art pieces intended as humor/homage and have no affiliation with the NBA or players.  \n\nEarn $FREAK",
+            "name": "AllStarFreaks",
+            "shortDescription": null,
+            "isVerified": true,
+            "owner": {
+              "address": "0xb4947391965fa0629eb4c07cac80f507978d7d50",
+              "config": null,
+              "isCompromised": false,
+              "user": {
+                "publicUsername": "FreaksNFT",
+                "id": "VXNlclR5cGU6Mzg1Mjk2"
+              },
+              "displayName": "FreaksNFT",
+              "imageUrl": "https://lh3.googleusercontent.com/APMc64S1XmQu__MBoy5QCj6b5A2QtHQ2UlMD0qLF6Nr1OQmxouaxxlfuG4XcVFoQpYVcm9oAsPYq9LDzsNUiuhDniOZNm8qoXTQ2VDE=s100",
+              "id": "QWNjb3VudFR5cGU6MjQ0MDM2ODg="
+            },
+            "stats": {
+              "totalSupply": 714.0,
+              "id": "Q29sbGVjdGlvblN0YXRzVHlwZToyMjcwMjg="
+            },
+            "defaultChain": {
+              "identifier": "ETHEREUM"
+            },
+            "relayId": "Q29sbGVjdGlvblR5cGU6MjI3MDI4",
+            "id": "Q29sbGVjdGlvblR5cGU6MjI3MDI4",
+            "__typename": "CollectionType"
+          },
+          "cursor": "YXJyYXljb25uZWN0aW9uOjc="
+        },
+        {
+          "node": {
+            "slug": "nfteams-club",
+            "logo": "https://lh3.googleusercontent.com/9uAAp8wwp43tnoZrl53WQz64tdfXpSklxI0ramhD_sNuTleD3rihYwD2Ozkd-Uw9sZomVUeUr0Y2YJzNLNljK3nMAjQD1PicazjOuKs=s120",
+            "banner": "https://lh3.googleusercontent.com/4TenOtpJ89Y8Xn07FUXu-L4Zm5bRo_sgP3dPOXsmWbHT149X3bjvN_7yOZHFNSsuzuQA0WOSozxwOAgqlazRc4BPfkfffoOhS1wb=s300",
+            "description": "NFTeams is a collection of 10,000 unique sports teams that are set to battle on the Ethereum blockchain. Each team will battle against all others every month in a March Madness style tournament.\n\nFor the first time in centuries, owning your own sports team is not for the ultra-wealthy. This is the start of a brand new worldwide sporting league.\n\nEach month a new tournament starts and the winners of each monthly tournament will be showered in prizes from the community pool.\n\nDiscord: https://discord.gg/rbBqVu4Bqu\n\nWebsite: https://www.nfteams.club/\n\nRarity Ranking: https://www.nfteams.club/rarity",
+            "name": "The NFTeams",
+            "shortDescription": null,
+            "isVerified": false,
+            "owner": {
+              "address": "0x68f83a50bdf15cfa024355c03afdd734324f966f",
+              "config": null,
+              "isCompromised": false,
+              "user": {
+                "publicUsername": "NFTeams-mint",
+                "id": "VXNlclR5cGU6MTk3ODMwMQ=="
+              },
+              "displayName": "NFTeams-mint",
+              "imageUrl": "https://lh3.googleusercontent.com/9uAAp8wwp43tnoZrl53WQz64tdfXpSklxI0ramhD_sNuTleD3rihYwD2Ozkd-Uw9sZomVUeUr0Y2YJzNLNljK3nMAjQD1PicazjOuKs=s100",
+              "id": "QWNjb3VudFR5cGU6MTkwNTUyMjY="
+            },
+            "stats": {
+              "totalSupply": 10000.0,
+              "id": "Q29sbGVjdGlvblN0YXRzVHlwZToxMjMxNDkw"
+            },
+            "defaultChain": {
+              "identifier": "ETHEREUM"
+            },
+            "relayId": "Q29sbGVjdGlvblR5cGU6MTIzMTQ5MA==",
+            "id": "Q29sbGVjdGlvblR5cGU6MTIzMTQ5MA==",
+            "__typename": "CollectionType"
+          },
+          "cursor": "YXJyYXljb25uZWN0aW9uOjg="
+        },
+        {
+          "node": {
+            "slug": "etherjam",
+            "logo": "https://lh3.googleusercontent.com/sdjWd58yvJ4iUwfJCQEEHbsaar2ba1BCuC_-qcqEOzAUWxPzstRfGLIcLmtROzaEHp1uYLC84UIRf6l5g5CjthTiFQZSqWe04Epxzhc=s120",
+            "banner": "https://lh3.googleusercontent.com/J_zrwL28e7IYrz88sfB-_ws3_K7FFuHHLJZsr4-5_s927cgGec7RH-Cm5kxQLfMnQWdkTUa45yFc2ObSrCaey4Z6RxcemLhnP3MnaA=s300",
+            "description": "Collect and trade limited run NFT basketball cards. Each card is illustrated based on a player's nickname. All letters A-Z are designed and ready to be released. Collect them all while you can!\n\nNot affiliated with the NBA.",
+            "name": "Ether Jam",
+            "shortDescription": null,
+            "isVerified": false,
+            "owner": {
+              "address": "0xa406a96536a2bed9f4a3e0ca78b92d4acdf0e5ac",
+              "config": null,
+              "isCompromised": false,
+              "user": {
+                "publicUsername": "EtherJam",
+                "id": "VXNlclR5cGU6MTg5NDgw"
+              },
+              "displayName": "EtherJam",
+              "imageUrl": "https://lh3.googleusercontent.com/c7Hei4RI1XSlbhgXVmlrw8yOdu8UgQIxBQne4AlkUZ7cZtFdUYAlfrBm-BIUigtpDB7zDJm2AFpFKn_Bk12B6nuk-G11AoXKYWAg=s100",
+              "id": "QWNjb3VudFR5cGU6MjE5MjI3NDk="
+            },
+            "stats": {
+              "totalSupply": 26.0,
+              "id": "Q29sbGVjdGlvblN0YXRzVHlwZTo1MzY2Nw=="
+            },
+            "defaultChain": {
+              "identifier": "ETHEREUM"
+            },
+            "relayId": "Q29sbGVjdGlvblR5cGU6NTM2Njc=",
+            "id": "Q29sbGVjdGlvblR5cGU6NTM2Njc=",
+            "__typename": "CollectionType"
+          },
+          "cursor": "YXJyYXljb25uZWN0aW9uOjk="
+        },
+        {
+          "node": {
+            "slug": "knights-of-degen-official",
+            "logo": "https://lh3.googleusercontent.com/yxdb_995UrIS6W9YIHMfMCRsdYRqcITlBvO5w7OoUx35rkClUeq9rPCvTMXdtw_zION07O_qRZSuNfZu6R6o8bI_KmbrfThhFtA4SBc=s120",
+            "banner": "https://lh3.googleusercontent.com/6eJ6H8iiJ189qSuHEMTSnzWx2uI41JOIBAgi6ufFnGvfphrESiIK6RAC24a4DUynieE-j68Kq6FYva9RXHY-amSnKb7jKCIq8a0zMg=s300",
+            "description": "8,888 NFT Degens who love sports, betting, alpha and nfts \u2694\ufe0f",
+            "name": "Knights of Degen - Knights!",
+            "shortDescription": null,
+            "isVerified": false,
+            "owner": {
+              "address": "0xa760bcd059b8d23f719d8ca3a020060949725f8e",
+              "config": "VERIFIED",
+              "isCompromised": false,
+              "user": {
+                "publicUsername": "KoD_Official",
+                "id": "VXNlclR5cGU6MjQwOTQ5NQ=="
+              },
+              "displayName": "KoD_Official",
+              "imageUrl": "https://lh3.googleusercontent.com/yxdb_995UrIS6W9YIHMfMCRsdYRqcITlBvO5w7OoUx35rkClUeq9rPCvTMXdtw_zION07O_qRZSuNfZu6R6o8bI_KmbrfThhFtA4SBc=s100",
+              "id": "QWNjb3VudFR5cGU6NzU4MzM2NDY="
+            },
+            "stats": {
+              "totalSupply": 8861.0,
+              "id": "Q29sbGVjdGlvblN0YXRzVHlwZToxNzQ0ODM0"
+            },
+            "defaultChain": {
+              "identifier": "ETHEREUM"
+            },
+            "relayId": "Q29sbGVjdGlvblR5cGU6MTc0NDgzNA==",
+            "id": "Q29sbGVjdGlvblR5cGU6MTc0NDgzNA==",
+            "__typename": "CollectionType"
+          },
+          "cursor": "YXJyYXljb25uZWN0aW9uOjEw"
+        },
+        {
+          "node": {
+            "slug": "legionfarm-gaming-heroes-1",
+            "logo": "https://lh3.googleusercontent.com/ndD2dA3zKwWqbilG98mYBEtlyug3CGji3DeFvK6FnGL1WhNxFGVJM6tPWMIQAauFPBpKyV7vdc5EtpOGbTPwbFNMJoBR9Jau9pdN=s120",
+            "banner": "https://lh3.googleusercontent.com/aGK6DxH3B1qON_D9tFbNP7sXKHj29StrM9nEnHm1yNu8Vrgs9hc_orMQLk4OwWHihEUF0DVAzqGpeRXoVehMS2Y020Fkam5_ZfcStw=s300",
+            "description": "Legionfarm is the fastest growing employer in the metaverse for 5,000 professional gamers, creators, guild managers and farmers.\n\n[legionfarm.com](http://legionfarm.com)\n\nOur mission is to create 1 million new jobs inside virtual worlds!\n\nWe start Gaming Club NFT Collection #1. What NFT Owners Get?\n\nGaming Heroes Club Membership:\nHang out with pros, community members, and celebrities;\nYour unique identity within our gaming community;\nLegionfarm lifetime subscription: play with pros to have fun, win, and become better at AAA video games.\n\nComing Soon - Legionfarm DAO:\nJoin the early community of those who are going to shape up the DAO with us. The ownership of these NFTs will positively influence your position in the governance process when the DAO is launched.",
+            "name": "Legionfarm Gaming Heroes #1",
+            "shortDescription": null,
+            "isVerified": false,
+            "owner": {
+              "address": "0xd563937d05e4e6b7b2353b78b4f386f1fde9c5ab",
+              "config": null,
+              "isCompromised": false,
+              "user": {
+                "publicUsername": "Legionfarm",
+                "id": "VXNlclR5cGU6MjE2NzI2OTg="
+              },
+              "displayName": "Legionfarm",
+              "imageUrl": "https://lh3.googleusercontent.com/ndD2dA3zKwWqbilG98mYBEtlyug3CGji3DeFvK6FnGL1WhNxFGVJM6tPWMIQAauFPBpKyV7vdc5EtpOGbTPwbFNMJoBR9Jau9pdN=s100",
+              "id": "QWNjb3VudFR5cGU6MjExMzU5Mjkx"
+            },
+            "stats": {
+              "totalSupply": 3021.0,
+              "id": "Q29sbGVjdGlvblN0YXRzVHlwZTo2MTk5MTgw"
+            },
+            "defaultChain": {
+              "identifier": "ETHEREUM"
+            },
+            "relayId": "Q29sbGVjdGlvblR5cGU6NjE5OTE4MA==",
+            "id": "Q29sbGVjdGlvblR5cGU6NjE5OTE4MA==",
+            "__typename": "CollectionType"
+          },
+          "cursor": "YXJyYXljb25uZWN0aW9uOjEx"
+        }
+      ],
+      "pageInfo": {
+        "endCursor": "YXJyYXljb25uZWN0aW9uOjEx",
+        "hasNextPage": true
+      }
+    }
+  }
+}
